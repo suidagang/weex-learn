@@ -1,0 +1,6 @@
+{
+  "AppName":"sui",
+  "AppId":"com.weex.app",
+  "SplashText":"Hello\nWeex",
+  "WeexBundle":"index.js"
+}
